@@ -62,7 +62,7 @@ From STRATEGY.md, extract every dated milestone and compute days remaining from 
 
 Work down this priority order. Collect every rule that fires, then pick the top 1 recommendation plus up to 2 alternatives. Work already in flight always outranks starting something new.
 
-If a dated milestone has already passed, lead with it whatever else fires, and say which rule below is the quickest way to close it.
+Dated milestones are a reminder, not a ranking: they never displace in-flight work. Whenever one is within 30 days or has already passed, end with the Milestone line even if nothing else points at it, and give a passed one as days overdue.
 
 | Priority | Signal | Recommendation |
 |---|---|---|
