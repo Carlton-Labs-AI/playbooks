@@ -6,4 +6,8 @@ Each playbook is a practice run before it is written up: when to use it, the ste
 
 The essays that go with these pages are at https://carltonlabs.substack.com.
 
-By Carlton Labs.
+## Skills
+
+- [whats-next](skills/whats-next/): ask Claude Code "where was I?" and get the next step, with the evidence behind it.
+
+By Carlton Labs. MIT licensed.
